@@ -1,0 +1,49 @@
+body{
+    background-image: url(bg5.png);
+    font-size: 17px;
+    font-family: Arial;
+   
+}
+
+header{
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+section{
+    background-color: rgb(209, 203, 203);
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.329);
+    text-align: center;
+}
+
+footer{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-style: italic;
+    font-size: 15px;
+}
+#tudo{
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+    width: 600px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.329);
+    border-radius: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-top: 80px;
+}
+img{
+    border-radius: 100%;
+    padding-top: 15px;
+}
+#botao{
+    background-color: rgb(255, 255, 255);
+    font-family: Arial;
+    color: rgb(0, 0, 0);
+    font-size: 12px;
+    height: 20px;
+}
